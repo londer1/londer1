@@ -1,14 +1,32 @@
 # Hello, I'm @londer1! 👋
 
-I'm passionate about computers and constantly challenge myself to learn new things in tech. I also have a knack for occasionally annoying Marius!
+Welcome to my digital corner! If you love tech **and** cats, you're in the right place. (Yes, that's a picture of a cat hilariously pushing a bowl of water in its face on my profile)
 
-🔭 **Currently:** I'm diving into JavaScript, exploring its nuances, and building exciting projects.
+---
 
-🌱 **Exploring:** JavaScript is my current focus, but I'm always eager to delve deeper into various tech domains.
+💻 **Who Am I?**
 
-💻 **I'm Open to Collaborate:** Interested in collaborating on a website or any tech-related project!
+I'm passionate about all things about computers, from writing code to physically building machines. I love building PCs and know a lot about components—from CPUs to GPUs and everything in between.
 
-📫 **Reach Me:** Drop me a message on Discord. I'm always up for discussions, brainstorming sessions, or a casual chat about tech and beyond!
+---
+
+🔐 **On the Horizon:**  
+Most likely headed into the world of **cybersecurity**. Its cool to be allowed to hack ethically annd all that.
+
+🌱 **Currently Exploring:**  
+JavaScript is my current playground, where I’m diving deep into learning it, and how to use it a good way. But don’t be surprised if you catch me talking about the latest hardware releases.
+
+🤝 **Open for Collaboration:**  
+If you're into building websites, interested in tech, or want to brainstorm cool ideas about software **or** hardware, let’s create something amazing together!
+
+---
+
+📫 **Reach Out:**  
+Feel free to drop me a message on Discord! Whether it's tech talk, PC builds, cat memes, or just hanging out, I'm always up for a good chat.
+
+---
+
+Thanks for stopping by! Remember, tech is always better with a bit of curiosity... and cats! 🐾💻
 
 <!---
 londer1/londer1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
