@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm londer</h1>
 <h3 align="center">A passionate student from Norway</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=londer1" alt="londer1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=londer1" alt="londer1" /></a> </p>
 
 - 🔭 I’m currently working on [A waffle game](https://github.com/londer1/Vaffelboden-spill)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **londer. on Discord**
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
