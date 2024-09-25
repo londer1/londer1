@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm londer</h1>
 <h3 align="center">A passionate student from Norway</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=londer1" alt="londer1" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=londer1" alt="londer1" /></a> </p>
+  <div align="center">
+  - 🔭 I’m currently working on [A waffle game](https://github.com/londer1/Vaffelboden-spill)
 
-- 🔭 I’m currently working on [A waffle game](https://github.com/londer1/Vaffelboden-spill)
+  - 🌱 I’m currently learning **Django and JavaScript**
+  
+  - 📫 How to reach me **londer. on Discord**
 
-- 🌱 I’m currently learning **Django and JavaScript**
-
-- 📫 How to reach me **londer. on Discord**
-
+</div>
 <p align="center">
 </p>
 
