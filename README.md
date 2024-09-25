@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **londer. on Discord**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
