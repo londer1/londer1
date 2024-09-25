@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm londer</h1>
+<h1 align="center">Hi 👋, I'm londer1</h1>
 <h3 align="center">A passionate student from Norway</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=londer1&label=Profile%20views&color=0e75b6&style=flat" alt="londer1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=londer1" alt="londer1" /></a> </p>
 
