@@ -7,7 +7,7 @@
 
   - 🌱 I’m currently learning **Django and JavaScript**
   
-  - 📫 How to reach me **londer. on Discord**
+  - 📫 You can reach me as **londer. on Discord**
 
 </div>
 <p align="center">
