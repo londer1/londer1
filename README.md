@@ -6,12 +6,14 @@
     <img src="https://github-profile-trophy.vercel.app/?username=londer1" alt="londer1" />
   </a>
 </p>
-
 <div align="center">
   🔭 Currently focused on <a href="https://github.com/londer1/Vaffelboden-spill">A waffle game</a>, an interactive game exploring fun gameplay mechanics.  
-  🌱 Continuously learning **Django and JavaScript**  
-  📫 Feel free to connect via **londer. on Discord**
+  <br>  
+  🌱 Continuously learning <strong>Django and JavaScript</strong>  
+  <br>  
+  📫 Feel free to connect via <strong>londer. on Discord</strong>
 </div>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
