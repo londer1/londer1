@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  🔭 Currently focused on [A waffle game](https://github.com/londer1/Vaffelboden-spill), an interactive game exploring fun gameplay mechanics.  
+  🔭 Currently focused on <a href="https://github.com/londer1/Vaffelboden-spill">A waffle game</a>, an interactive game exploring fun gameplay mechanics.  
   🌱 Continuously learning **Django and JavaScript**  
   📫 Feel free to connect via **londer. on Discord**
 </div>
