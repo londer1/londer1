@@ -77,6 +77,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+<hr/>
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
