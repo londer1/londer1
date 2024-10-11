@@ -81,5 +81,6 @@
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=londer1&show_icons=true&locale=en&layout=compact" alt="londer1" />
+    <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=londer1" alt="GitHub streak stats">
 </p>
