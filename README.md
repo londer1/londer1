@@ -78,3 +78,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=londer1&show_icons=true&locale=en&layout=compact" alt="londer1" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=londer1" alt="GitHub streak stats">
 </p>
+<img src="https://raw.githubusercontent.com/londer1/londer1/output/snake.svg" alt="Snake animation" />
