@@ -18,7 +18,7 @@
   <br>  
   📫 Feel free to connect via <strong>londer. on Discord</strong>
 </div>
-
+<hr/>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
