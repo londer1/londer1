@@ -1,7 +1,32 @@
-# 💫 About Me:
-Currently focused on making an AI
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=30&duration=2000&pause=100&color=ECD0FF&background=B65BFF00&center=true&multiline=true&width=435&height=74&lines=Hiii;I'm+londer1" alt="Typing SVG" /></a>
+</h1>
+
+
+<div align="center">
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&text=About%20Me&fontSize=44&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+<ul>
+  <li>Currently focused on making an AI</li>
+  <li>Apprentice in the government</li>
+  <li>Ambitious for the future in IT</li>
+</ul> <br>
+
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200" alt="Cat Typing" 
+
+
+
+<br>
 
 ---
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/londer1/londer1/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/londer1/londer1/output/pacman-contribution-graph.svg">
@@ -27,6 +52,8 @@ Currently focused on making an AI
 ![](https://github-readme-stats.vercel.app/api?username=londer1&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=londer1&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br clear="both">
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&fontSize=44&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
