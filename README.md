@@ -2,10 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=30&duration=2000&pause=100&color=ECD0FF&background=B65BFF00&center=true&multiline=true&width=435&height=74&lines=Hiii;I'm+londer1" alt="Typing SVG" /></a>
 </h1>
 
-
 <div align="center">
-
-<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&text=About%20Me&fontSize=44&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
@@ -22,11 +19,7 @@
   <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200" alt="Cat Typing" 
 
 
-
-<br>
-
----
-
+#
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/londer1/londer1/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/londer1/londer1/output/pacman-contribution-graph.svg">
