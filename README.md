@@ -24,7 +24,9 @@ Currently focused on making an AI
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
+
 # Visitor count
 <div align="center">
   <img src="https://count.getloli.com/@:londer1?theme=nixietube-1&padding=9&scale=1.4&align=top&pixelated=0&darkmode=auto"  />
