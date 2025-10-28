@@ -9,9 +9,9 @@
 </div>
 
 <ul>
-  <li>Currently focused on making an AI</li>
-  <li>Apprentice in the government</li>
-  <li>Ambitious for the future in IT</li>
+  <li>Building an AI in Copilot Studio to analyze and summarize science reports</li>
+  <li>Developing my portfolio with React + Vite</li>
+  <li>Government IT apprentice focused on growing in tech</li>
 </ul> <br>
 
 </div>
