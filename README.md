@@ -12,7 +12,7 @@
   <li>Building an AI in Copilot Studio to analyze and summarize science reports</li>
   <li>Developing my portfolio with React + Vite</li>
   <li>Government IT apprentice focused on growing in tech</li>
-  <li><a href="https://londer1.github.io/" target="_blank">Click here to visit my portfolio</a></li>
+  <li>Click <a href="https://londer1.github.io/" target="_blank">here</a> to visit my portfolio</li>
 </ul> <br>
 
 </div>
