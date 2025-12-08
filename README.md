@@ -10,7 +10,7 @@
 
 <ul>
   <li>Building an AI in Copilot Studio to analyze and summarize science reports</li>
-  <li>Developing my portfolio with React + Vite</li>
+  <li>Developing my portfolio with React + Astro</li>
   <li>Government IT apprentice focused on growing in tech</li>
   <li>Click <a href="https://lbraten.github.io/" target="_blank">here</a> to visit my portfolio</li>
 </ul> <br>
