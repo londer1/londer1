@@ -56,12 +56,6 @@
 
 #
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&text=GitHub%20Stats&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-![](https://github-readme-stats.vercel.app/api?username=londer1&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=londer1&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br clear="both">
 
