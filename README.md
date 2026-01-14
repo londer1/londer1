@@ -2,6 +2,28 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=30&duration=2000&pause=100&color=ECD0FF&background=B65BFF00&center=true&multiline=true&width=435&height=74&lines=Hiii;I'm+Leander" alt="Typing SVG" /></a>
 </h1>
 
+
+<div align="center">
+  <a href="https://lbraten.github.io/" aria-label="Open portfolio">
+    <img src="assets/design.png" width="700" style="cursor:pointer;" alt="Portfolio banner" />
+  </a>
+</div>
+<div align="center">
+  <sub>
+    <strong>
+      <img src="assets/arrow.svg"
+           width="18" height="18" alt="" aria-hidden="true"
+           style="vertical-align:-3px; margin-right:6px;">
+      Click on the banner to visit the portfolio!
+        <img src="assets/arrow.svg"
+           width="18" height="18" alt="" aria-hidden="true"
+           style="vertical-align:-3px; margin-right:6px;">
+    </strong>
+  </sub>
+</div>
+<br>
+
+#
 <div align="center">
 
 <div>
@@ -14,8 +36,6 @@
   <li>Government IT apprentice focused on growing in tech</li>
   <li>Click <a href="https://lbraten.github.io/" target="_blank">here</a> to visit my portfolio to read more</li>
 </ul>
-
-[![My Portfolio](assets/design.png)](https://lbraten.github.io/)
 <br>
 
 </div>
