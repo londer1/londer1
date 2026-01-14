@@ -13,7 +13,10 @@
   <li>Developing my portfolio with React + Astro</li>
   <li>Government IT apprentice focused on growing in tech</li>
   <li>Click <a href="https://lbraten.github.io/" target="_blank">here</a> to visit my portfolio to read more</li>
-</ul> <br>
+</ul>
+
+[![My Portfolio](assets/design.png)](https://lbraten.github.io/)
+<br>
 
 </div>
 <div align="center">
