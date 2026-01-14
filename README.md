@@ -12,12 +12,12 @@
   <sub>
     <strong>
       <img src="assets/arrow.svg"
-           width="18" height="18" alt="" aria-hidden="true"
-           style="vertical-align:-3px; margin-right:6px;">
+           width="24" height="24" alt="" aria-hidden="true"
+           style="vertical-align:-3px; margin-right:40px;">
       Click on the banner to visit the portfolio!
         <img src="assets/arrow.svg"
-           width="18" height="18" alt="" aria-hidden="true"
-           style="vertical-align:-3px; margin-right:6px;">
+           width="24" height="24" alt="" aria-hidden="true"
+           style="vertical-align:-3px; margin-right:40px;">
     </strong>
   </sub>
 </div>
