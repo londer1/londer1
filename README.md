@@ -14,7 +14,7 @@
       <img src="assets/arrow.svg"
            width="24" height="24" alt="" aria-hidden="true"
            style="vertical-align:-3px; margin-right:40px;">
-      Click on the banner to visit the portfolio!
+      Click on it!
         <img src="assets/arrow.svg"
            width="24" height="24" alt="" aria-hidden="true"
            style="vertical-align:-3px; margin-right:40px;">
